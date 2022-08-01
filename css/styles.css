@@ -1,0 +1,181 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+/* tags */
+h1, h2, h3, h4, h5, h6 {
+  font-family:  "Montserrat", sans-serif;
+}
+h3 {
+  font-size: 1.5rem;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+h2 {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* # */
+.buttonsgoogleaple{
+  text-align: left;
+}
+#seconddiv {
+  padding: 7%;
+}
+
+#title {
+
+  background-color: #ff4c68;
+}
+
+#firstnav {
+  padding-bottom: 50px;
+}
+
+.imgr1 {
+  padding: 5%;
+  right: 10%;
+  top: 10%;
+  width: 60%;
+  transform: rotate(25deg);
+  position: relative;
+  margin-left: 25%;
+}
+/* Headings */
+
+.Big-heading {
+  font-family: "Montserrat-Bold" sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+
+#dogdiv {
+}
+
+/* <!-- Features --> */
+#rrrrr {}
+
+/* secondsection */
+.secondsection {
+  background-color: white;
+  position: relative;
+}
+
+i:hover {
+  color: #ff4c68;
+}
+
+.icons {
+  margin-bottom: 5%;
+  font-size: 215%;
+  color: #ef8172;
+  margin-bottom: ;
+}
+
+.container {
+  padding-top: 50px;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family:  "Montserrat-Bold", sans-serif;
+  font-size: 1.2rem;
+}
+
+.dowload-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Testimonial section */
+#testimonials {
+
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+#press {
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* prising section*/
+
+.card-header {
+  background-color: lightgray;
+}
+
+.card {
+  margin: 1%;
+}
+
+.cardbuttons {
+  width: 90%;
+}
+
+@media (max-width: 1028px) {
+  .imgr1 {
+    position: static;
+    margin: 0 0 0 0;
+    transform: rotate(0);
+  }
+.buttonsgoogleaple{
+  text-align: center;
+}
+  .title {
+    text-align: center;
+  }
+}
+
+/* cta */
+#cta {
+  background-color: #ff4c68;
+}
+.lowestdiv {
+  padding-bottom: 85px;
+}
+
+#lowestH {
+  font-size: 3rem;
+  line-height: 1.5;
+  font-family: "Montserrat-Bold" sans-serif;
+  color: white;
+}
+
+.lowestbuttons {
+  margin: 1%;
+  margin-top: 4%;
+}
+
+.footerdiv {
+  width: 150px;
+  margin: 5% auto 1% auto;
+}
+
+.lowestP {
+  font-family: sans-serif;
+  color: lightgray;
+}
